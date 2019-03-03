@@ -213,7 +213,7 @@ The iOS theme is no longer available, BUT as you will see, it's also not necessa
 - The `--theme, -t` option is no longer available as a build option.
 - `quasar describe` was added for command-line help with Quasar components, etc.
 - `quasar inspect` is a new option to see generated Webpack config.
-- `quasar ext` is a new option for management of Quasar App Extensions.
+- `quasar ext` is a new option for management of [Quasar App Extensions](quasar-cli/app-extensions/introduction).
 - `quasar new plugin ...` is now `quasar new boot ...`
 
 ## Build Output
